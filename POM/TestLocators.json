@@ -1,0 +1,7 @@
+{
+    "Login": {
+        "txtUserName": "//input[@name='username']",
+        "txtPassword": "//input[@name='password']",
+        "btnLogin": "//button[@type='submit']"
+    }
+}

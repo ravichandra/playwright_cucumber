@@ -1,0 +1,16 @@
+{
+    "CommonData": {
+        "ENV": "",
+        "URL": {
+            "DEV": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+        },
+        "HEADLESS": false,
+        "DEFAULT_TIMEOUT": 100000
+    },
+    "TestCaseData": {
+        "TC001_Login": {
+            "LoginText": ""
+        }
+    }
+
+}
